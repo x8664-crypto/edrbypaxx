@@ -18,5 +18,5 @@ The bzzz-edr-killer is compiled to be portable and without need of any weird dep
 
 Enjoy the video.
 
-<video src="s1bypass.mp4" width="640" height="480" controls></video>
+<video src="https://github.com/x8664-crypto/edrbypaxx/blob/master/s1bypass.mp4" width="640" height="480" controls></video>
 
